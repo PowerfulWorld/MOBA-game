@@ -1,0 +1,6 @@
+{
+  "name": "Apex Champions: Legends Arena",
+  "description": "An action-packed 5v5 mobile-first MOBA with 3 lanes, 6 unique heroes, jungle bosses, items, and intelligent AI bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
